@@ -326,6 +326,8 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: gray;'>
     <p>Built with ❤️ using LangChain 🦜🔗 and Streamlit</p>
-    <p style='font-size: 0.9em;'>💡 Tip: Always review and customize the generated README before publishing!</p>
+</div>
+<div style='text-align: center; font-weight: bold;'>
+    Built by Aayush Panchal
 </div>
 """, unsafe_allow_html=True)

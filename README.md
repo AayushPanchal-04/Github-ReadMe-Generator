@@ -92,7 +92,7 @@ OpenAI generates a structured README.md
 
 You view, edit, download, or refine the output
 
-### 📘 Output Format
+## 📘 Output Format
 
 Title
 
